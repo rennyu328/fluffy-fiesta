@@ -1,0 +1,4 @@
+MacBook Air (13-inch, Late 2010)
+プロセッサ　1.86 GHz Intel Core 2 Duo
+メモリ　2 GB 1067 MHz DDR3
+グラフィックス　NVIDIA GeForce 320M 256 MB
